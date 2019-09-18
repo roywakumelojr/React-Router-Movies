@@ -7,7 +7,7 @@ Topics:
 * Passing Route Parameters
 * Passing props to components rendered by the Router
 
-## Instructions
+## Instructions.
 
 **NOTE ⚠️ - You will NOT need to finish this project after React Router I. Start working on it now, then you can finish it up after the next module - React Router II.**
 
